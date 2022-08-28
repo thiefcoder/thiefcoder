@@ -19,7 +19,7 @@
 <a href="https://twitter.com/amirho3ein271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirho3ein271" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amir-hossein-hasani-049560182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hossein-hasani-049560182" height="30" width="40" /></a>
 <a href="https://instagram.com/thiefcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiefcoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucr3g5rd86hy_9n717z9wkhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucr3g5rd86hy_9n717z9wkhg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCr3G5RD86HY_9n717Z9wkHg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucr3g5rd86hy_9n717z9wkhg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
