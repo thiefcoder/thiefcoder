@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CS50x**
 
-- 📝 I regularly write articles on [https://amirhosseinhasani.me](amirhosseinhasani.me)
+- 📝 I regularly write articles on [amirhosseinhasani.me](https://amirhosseinhasani.me)
 
 - 💬 Ask me about **GAME DEVELOPING**
 
