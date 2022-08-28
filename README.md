@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **thief.coder@gmail.com**
 
-- ⚡ Fun fact **I WORKING SI LUT**
+- ⚡ Fun fact **i am gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
