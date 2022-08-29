@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm amir hossein</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/43YwVH5f/thief-coder.png">
 
 - 🔭 I’m currently working on **my game**
