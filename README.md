@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my game**
 
-- 🌱 I’m currently learning **CS50x**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [amirhosseinhasani.me](https://amirhosseinhasani.me)
 
