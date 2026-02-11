@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [amirhosseinhasani.me](https://amirhosseinhasani.me)
+- 📝 I regularly write articles on [amirhosseinhasani.me](https://amirdevgame.ir)
 
 - 💬 Ask me about **GAME DEVELOPING**
 
